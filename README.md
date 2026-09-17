@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ishan 👋
 
-<!--
-**Ishan-Awasthi-x99/Ishan-Awasthi-x99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Turning everyday problems into simple, useful ideas.**
 
-Here are some ideas to get you started:
+I'm a developer and builder focused on creating **creative projects that make everyday life a little easier**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### What I Do
+
+* 💡 Explore real-world problems
+* 🛠️ Build simple, practical solutions
+* 🚀 Turn ideas into working products
+
+Always curious. Always building.
+**Think → Build → Improve.**
+
 -->
