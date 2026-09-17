@@ -7,10 +7,8 @@ I'm a developer and builder focused on creating **creative projects that make ev
 ### What I Do
 
 * 💡 Explore real-world problems
-* 🛠️ Build simple, practical solutions
-* 🚀 Turn ideas into working products
+* 🤖 Use AI extensively to think, build, and experiment
+* 🛠️ Turn ideas into practical solutions
+* 🚀 Ship and improve real products
 
-Always curious. Always building.
 **Think → Build → Improve.**
-
--->
